@@ -17,6 +17,11 @@ of Strapi
 $ docker-compose up --build
 ```
 
+## Login
+
+- Email: `admin1@gmail.com`
+- Password: `admin123`
+
 ## Features (coming soon)
 
 - CRUD boards
